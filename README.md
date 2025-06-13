@@ -8,7 +8,6 @@ This is a simple API built using Node.js and Express.
 `````bash
 git clone https://github.com/Himanshubhadoria11/user-api.git
 cd user-api
-npm init -y
 npm install express
 node app.js
 ````````````
