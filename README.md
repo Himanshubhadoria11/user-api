@@ -5,16 +5,28 @@ This is a simple API built using Node.js and Express.
 
 ## Installation
 
-Clone using the web URL:
+`````bash
+git clone https://github.com/Himanshubhadoria11/user-api.git
+cd user-api
+npm init -y
+npm install express
+node app.js
+
+````````````
+
+1.Clone using the web URL:
 
 git clone https://github.com/Himanshubhadoria11/user-api.git
 
-Run the following command to install dependencies:
+cd user-api
+
+2.Run the following command to install dependencies:
 
 npm init -y
+
 npm install express
 
-## Usage
+3. Usage
 Start the server using:
 
 node app.js
