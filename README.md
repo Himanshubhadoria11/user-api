@@ -4,6 +4,11 @@
 This is a simple API built using Node.js and Express.
 
 ## Installation
+
+Clone using the web URL:
+
+git clone https://github.com/Himanshubhadoria11/user-api.git
+
 Run the following command to install dependencies:
 
 npm init -y
