@@ -11,22 +11,21 @@ cd user-api
 npm init -y
 npm install express
 node app.js
-
 ````````````
 
-1.Clone using the web URL:
+
+##1.Clone using the web URL:
 
 git clone https://github.com/Himanshubhadoria11/user-api.git
-
 cd user-api
 
-2.Run the following command to install dependencies:
+##2.Run the following command to install dependencies:
 
 npm init -y
 
 npm install express
 
-3. Usage
+##3. Usage
 Start the server using:
 
 node app.js
