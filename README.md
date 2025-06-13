@@ -43,9 +43,17 @@ node app.js
 - Express.js
 
 
-##Screenshots
+##Screenshots of RESTful API
 
-![Alt Text](assets/Screenshot 2025-06-13 171700.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20171700.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20171818.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20171915.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20171943.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20172106.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20172138.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20172228.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20172317.png)
+![Alt Text](./assets/Screenshot%202025-06-13%20172342.png)
 
 
 
